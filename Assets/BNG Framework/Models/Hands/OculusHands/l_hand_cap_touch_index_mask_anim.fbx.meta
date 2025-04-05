@@ -202,8 +202,8 @@ ModelImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 161066
-  packageName: VR Interaction Framework
-  packageVersion: 3.0.4
+  productId: 82022
+  packageName: Oculus Integration (Deprecated)
+  packageVersion: 57.0.2-deprecated
   assetPath: Assets/BNG Framework/Models/Hands/OculusHands/l_hand_cap_touch_index_mask_anim.fbx
-  uploadId: 701518
+  uploadId: 667590
